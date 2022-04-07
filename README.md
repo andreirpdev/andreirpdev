@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center">
+🤝 Welcome I'm Andrei
+</h1>
 
-<!--
-**andreirpdev/andreirpdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 andreirpdev
+### 💻 Technologies: Learning 
 
-Here are some ideas to get you started:
+* Container Service: (Docker, Kubernetes, Nomad)
+* IaC: (Ansible, Terraform, Terragrunt, Atlantis, Paker)
+* Languages: (Shellscript, Powershell, Python, Php, .Net, Google AppScripts)
+* Cloud platforms: (OCI, AWS, Azure)
+* CI/CD: (Azure DevOps, GitHub Actions, Gitlab CI/CD)
+* Dast/Sast/Sec: (SonarQube, Nessus, Burp Suite, OWASP ZAP, Vault)
+* Observability (ELK Stack, Graylog, Grafana, Zabbix, Prometheus)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Stats 
+[![Andrei GitHub Stats](https://github-readme-stats.vercel.app/api?username=andreirpdev&theme=cobalt&show_icons=true)](https://github.com/andreirpdev)
+
+### 👨‍🎓  Languages
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreirpdev&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
+
+## Get in touch
+- Website: [andreirp.dev](https://andreirp.dev)
+
